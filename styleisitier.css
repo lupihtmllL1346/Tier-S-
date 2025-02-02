@@ -1,0 +1,49 @@
+/* Mengatur styling dasar halaman */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #505050;
+  color: #333;
+}
+
+/* Mengatur lebar kontainer */
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Styling untuk judul */
+h1 {
+  text-align: center;
+  color: #f4f4f4;
+}
+
+/* Styling untuk daftar tier */
+.tier-list {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling untuk nama tier */
+.tier {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0088ff;
+}
+
+/* Mengatur daftar tanpa bullet */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Styling untuk setiap item dalam daftar */
+li {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
