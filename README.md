@@ -1,1 +1,2 @@
-# tierlistisi1
+# Tier S+
+# 1. Anonim
